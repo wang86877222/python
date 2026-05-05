@@ -2,3 +2,5 @@ DOMAIN-SUFFIX,hxd.as174.de
 DOMAIN-SUFFIX,cf.bili.rip
 DOMAIN-SUFFIX,emby.as174.de
 DOMAIN-SUFFIX,hongxingyunmovie.vip
+DOMAIN-SUFFIX,c2.zdz.plus
+DOMAIN-SUFFIX,7056789.xyz
